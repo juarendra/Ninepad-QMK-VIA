@@ -5,8 +5,8 @@
   "maintainer": "juarendra",
   "usb": {
     "device_version": "1.0.0",
-    "pid": "0x6273",
-    "vid": "0x6B70"
+    "pid": "0x9999",
+    "vid": "0x3430"
   },
   "layouts": {
     "LAYOUT": {
