@@ -9,7 +9,7 @@
 /* Keyboard Matrix Assignments */
 #define DIRECT_PINS { \
     { B9, B8, B7}, \
-    { B6, B5, B4}, \
+    { B4, B5, B6}, \
     { B3, A7, A6} \
 }
 /* Debounce reduces chatter (unintended double-presses) - set 0 if debouncing is not needed */
