@@ -72,7 +72,7 @@ cd qmk_firmware/
 ```
 - Then enter this comman, to compile and enter mode flash qmk
 ```sh
-qmk flash -kb streampad_ -km via
+qmk flash -kb ninepad -km via
 ```
 - After compile finish you can see instructions to connect macropad like this
 ```sh
