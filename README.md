@@ -64,7 +64,7 @@ https://github.com/juarendra/Lianumpad-QMK-VIA/assets/43043633/daf05cb3-5ffb-489
 
 ## HOW To FLASH MACROPAD 
 - Download QMK MYSYS, Install and setup QMK MYSYS, you can see this [tutorial](https://msys.qmk.fm/guide.html#next-steps)
-- After all setup in QMK MYSYS, copy this [folder firmware(ninepad)](https://github.com/juarendra/STREAMPAD-QMK-VIA/tree/main/Firmware) to folder qmk_firmware/keyboards/
+- After all setup in QMK MYSYS, copy this [folder firmware(ninepad)](https://github.com/juarendra/Ninepad-QMK-VIA/tree/main/FIRMWARE) to folder qmk_firmware/keyboards/
 - Open QMK MYSYS
 - Then enter this command, to enter qmk folder
 ```sh
